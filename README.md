@@ -31,11 +31,32 @@
   - [排序优化：如何实现一个通用的、高性能的排序函数？](https://time.geekbang.org/column/article/42359)
 ##### 5.5 二分查找
   - [二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://time.geekbang.org/column/article/42520)
-  ##### 5.6 广度、深度优先搜索
-  - [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
 
 ### 第二阶段
-
+#### 1.散列表（M，8分）
+  - [散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://github.com/iostalks/Algorithms/blob/master/64233)
+  - [散列表（中）：如何打造一个工业级水平的散列表？](https://time.geekbang.org/column/article/64586)
+  - [散列表（下）：为什么散列表和链表经常会一起使用？](https://time.geekbang.org/column/article/64858)
+#### 2.二叉树（M，9分）
+##### 2.1 二叉树基础
+  - [二叉树基础（上）：什么样的二叉树适合用数组来存储？](https://time.geekbang.org/column/article/67856)
+  - [二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？](https://time.geekbang.org/column/article/68334)
+##### 2.2 平衡二叉树
+  - [红黑树（上）：为什么工程中都用红黑树这种二叉树？](https://time.geekbang.org/column/article/68638)
+  - [红黑树（下）：掌握这些技巧，你也可以实现一个红黑树](https://time.geekbang.org/column/article/68976)
+  - 
+#### 3.堆和堆排序（M，9分）
+  - [堆和堆排序：为什么说堆排序没有快速排序快？](https://time.geekbang.org/column/article/69913)
+  - [堆的应用：如何快速获取到Top 10最热门的搜索关键词？](https://time.geekbang.org/column/article/70187)
+#### 4.BF/RK字符串匹配算法（E，7分）
+  - [字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？](https://time.geekbang.org/column/article/71187)
+#### 5.Trie树（M，7分）
+  - [Trie树：如何实现搜索引擎的搜索关键词提示功能？](https://time.geekbang.org/column/article/72414)
+#### 6.图的表示（E，8分）
+##### 6.1 无向图、有向图、带权图
+  - [图的表示：如何存储微博、微信等社交网络中的好友关系？](https://time.geekbang.org/column/article/70537)
+#### 7.深度、广度优先搜索（H，8分）
+  - [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
 
 ### 第三阶段
 
