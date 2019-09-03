@@ -8,6 +8,7 @@
 #### 2.数组、栈、队列（E，8分）
 ##### 2.1 数组
   - [数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
+  > 数组和链表的区别：链表适合插入、删除，时间复杂度O(1)，数组支持随机访问，根据下标随机访问的时间复杂度为O(1)；数组为何从0开始编号而不是从1开始编号，从数组存储的内存模型上看，“下标”最确切的定义是“偏移（offset）”，如果从0开始计算公式为 a[k]_address = base_address + k * type_size，如果从1开始计算，内存地址公式变为 a[k]_address = base_address + k * type_size,cpu多了一次减法的指令。
 ##### 2.2 栈
   - [栈：如何实现浏览器的前进和后退功能？](https://time.geekbang.org/column/article/41222)
 ##### 2.3 队列
