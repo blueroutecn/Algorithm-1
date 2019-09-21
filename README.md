@@ -54,7 +54,7 @@
 
 ### 第二阶段
 #### 1.散列表（M，8分）
-  - [散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://github.com/iostalks/Algorithms/blob/master/64233)
+  - [散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://time.geekbang.org/column/article/64233)
   - [散列表（中）：如何打造一个工业级水平的散列表？](https://time.geekbang.org/column/article/64586)
   - [散列表（下）：为什么散列表和链表经常会一起使用？](https://time.geekbang.org/column/article/64858)
 #### 2.二叉树（M，9分）
